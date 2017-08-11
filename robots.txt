@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: http://data5.us/sitemap.xml
+Host: data5.us
